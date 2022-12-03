@@ -36,7 +36,7 @@ jobs:
       - name: Install dependencies
         run: cd docs && bundle install
       - name: Build site
-        run: jekyll build -s docs/ -d ./_site
+        run: jekyll build -s . -d ./_site
       # - name: Build with Jekyll
       #   uses: actions/jekyll-build-pages@v1
       #   with:
