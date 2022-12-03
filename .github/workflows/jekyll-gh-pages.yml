@@ -33,10 +33,9 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '2.7'
-      - name: Install dependencies
-        run: cd docs && bundle install
+          bundler-cache: true # runs 'bundle install' and caches deps automatically
       - name: Build site
-        run: jekyll build -s docs/ -d ./_site
+        run: jekyll build -s . -d ./_site
       # - name: Build with Jekyll
       #   uses: actions/jekyll-build-pages@v1
       #   with:
