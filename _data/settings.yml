@@ -23,9 +23,10 @@ menu__settings:
 
 #-------------------------------
 # Author Settings
+# Shows up in the site footer
 author:
   author__name: Cohere
-  author__bio: We're a democratically governed worker-cooperative. We offer custom software development, technical and leadership coaching.
+  author__bio: A democratically governed worker-cooperative. Rooted in Oakland, CA, Ohlone land.
   #author__avatar: '/images/01.jpg'
 
 social:
