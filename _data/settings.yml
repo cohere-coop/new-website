@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Akio
+title: Cohere
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Creative Portfolio Theme for Jekyll.
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+description: Cohere is a software consultancy that offers custom software development, technical and leadership coaching.
+color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -12,34 +12,29 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'About'
-      url: '/about/'
-    - title: 'Work'
-      url: '/work/'
+    - title: 'People'
+      url: '/people/'
+    - title: 'Services'
+      url: '/services/'
     - title: 'Writing'
-      url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
-
+      url: '/writing/'
+    - title: 'Contact'
+      url: '/contact/'
 
 #-------------------------------
 # Author Settings
 author:
-  author__name: Jason Hill
-  author__bio: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
-  author__avatar: '/images/01.jpg'
+  author__name: Cohere
+  author__bio: We're a democratically governed worker-cooperative. We offer custom software development, technical and leadership coaching.
+  #author__avatar: '/images/01.jpg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/wecohere"}
+- {icon: "ion-logo-github", link: "https://github.com/wecohere/"}
+# - {icon: "ion-logo-facebook", link: "https://facebook.com"}
+# - {icon: "ion-logo-instagram", link: "https://instagram.com"}
+# - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+# - {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -49,46 +44,26 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hey everyone, I’m Jason Hill
-  hero__description: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
-  hero__image: "/images/01-1.jpg"
+  hero__title: Better, together
+  hero__description: We use our technical and organizational expertise to help you and your team get where you want to go.
+  hero__image: "/images/people-teams-code.png"
 
 
 #-------------------------------
 # Logos Settings
 logos:
-  enable: true
-  logos__title: I’ve worked with some great сompanies
+  enable: false
+  logos__title: I've worked with some great companies
 
 logo__items:
   - name: Google
     link: "https://www.google.com/"
     image: "/images/google.svg"
 
-  - name: Spotify
-    link: "https://www.spotify.com/"
-    image: "/images/spotify.svg"
-
-  - name: Pinterest
-    link: "https://www.pinterest.com/"
-    image: "/images/pinterest.svg"
-
-  - name: Netlify
-    link: "https://www.netlify.com/"
-    image: "/images/netlify.svg"
-
-  - name: Apple
-    link: "https://www.apple.com/"
-    image: "/images/apple.svg"
-
-  - name: Adobe
-    link: "https://www.adobe.com/"
-    image: "/images/adobe.svg"
-
 #-------------------------------
 # Newsletter
 mailchimp:
-  enable: true
+  enable: false
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__input__text: Your email address...
   mailchimp__button__text: Subscribe
@@ -97,7 +72,7 @@ mailchimp:
 #-------------------------------
 # Work Settings
 work:
-  enable: true
+  enable: false
   work__title: Work
   work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
 
@@ -107,64 +82,21 @@ work:
 testimonials:
   enable: true
 
-testimonial__title: Clients
+testimonial__title: What our clients say
 testimonial__description:
 
 testimonial__items:
-  - name: "Hanna Septimus"
-    image: "/images/client-1.jpg"
-    designation: "Product Designer"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+  - name: "Eddie Kay"
+    #image: "/images/client-1.jpg"
+    designation: "Senior Engineering Manager, athenahealth"
+    link: "https://www.linkedin.com/in/eddiekay/"
+    content: "I have rarely seen a room full of engineers more engaged than during Jennifer's workshop on effective communication."
 
-  - name: "Carla Rosser"
-    image: "/images/client-2.jpg"
-    designation: "Statistician"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Maria Curtis"
-    image: "/images/client-3.jpg"
-    designation: "Team Lead"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Carter Bergson"
-    image: "/images/client-4.jpg"
-    designation: "CEO, Founder"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Jordyn Franci"
-    image: "/images/client-5.jpg"
-    designation: "Personal Trainer"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Mira Carder"
-    image: "/images/client-6.jpg"
-    designation: "Data Scientist"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Madelyn Herwitz"
-    image: "/images/client-7.jpg"
-    designation: "Frontend Engineer"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Anika Schleifer"
-    image: "/images/client-8.jpg"
-    designation: "Fitness Director"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Wilson Dorwart"
-    image: "/images/client-9.jpg"
-    designation: "Financial Manager"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
+  - name: "Jonathan Chu"
+    #image: "/images/client-2.jpg"
+    designation: "CTO and cofounder, Verdigris"
+    #link: "https://facebook.com/"
+    content : "Zee paired with one of our developers and did an outstanding job of clearing intimidating blockers."
 
 #-------------------------------
 # Blog Section
@@ -178,7 +110,7 @@ blog__settings:
 
 #-------------------------------
 # Footer Settings
-footer__background__image: "/images/bg.jpg"
+# footer__background__image: "/images/bg.jpg"
 
 #-------------------------------
 # Contact Settings
@@ -193,7 +125,7 @@ contact:
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
-  enable: true
+  enable: false
   disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
