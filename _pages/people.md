@@ -8,7 +8,7 @@ permalink: /people/
 <section>
   <div class="row">
     <div class="col col-3 col-d-12">
-    <img src="{{ person.image | relative_url }}" alt="Photo of {{ person.name }}"/>
+      <img class="lazy" data-src="{{ person.image | relative_url }}" alt="Photo of {{ person.name }}">
     </div>
     <div class="col col-9 col-d-12">
       <h3 id="{{ person.name | handleize }}">
