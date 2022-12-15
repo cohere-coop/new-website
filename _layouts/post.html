@@ -90,9 +90,11 @@ layout: default
   <div class="post__navigation">
     {% if page.previous.url %}
     <div class="post__prev">
-      <a href="{{page.previous.url}}" class="prev__image">
-        <img class="lazy" data-src="{{site.baseurl}}{{page.previous.image}}" alt="{{ page.title }}">
-      </a>
+      {% if page.previous.image %}
+        <a href="{{page.previous.url}}" class="prev__image">
+          <img class="lazy" data-src="{{site.baseurl}}{{page.previous.image}}" alt="{{ page.title }}">
+        </a>
+      {% endif %}
       <div class="prev__box">
         <span class="post__nav post__nav__prev">Older post</span>
         <h2 class="post__nav__title"><a href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
@@ -114,9 +116,11 @@ layout: default
           endif %}
         </p>
       </div>
-      <a href="{{page.next.url}}" class="next__image">
-        <img class="lazy" data-src="{{site.baseurl}}{{page.next.image}}" alt="{{ page.title }}">
-      </a>
+      {% if page.next.image %}
+        <a href="{{page.next.url}}" class="next__image">
+          <img class="lazy" data-src="{{site.baseurl}}{{page.next.image}}" alt="{{ page.title }}">
+        </a>
+      {% endif %}
     </div>
     {% endif %}
   </div>
