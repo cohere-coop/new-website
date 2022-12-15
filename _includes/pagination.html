@@ -11,8 +11,7 @@
 {% endif %}
 
 <script>
-  var base_url = "",
-    pagination_next_url = base_url + '/blog/page2',
+  var pagination_next_url = '{{ '/writing/page2' | relative_url }}',
     pagination_next_page_number = '{{ paginator.next_page }}',
     pagination_available_pages_number = '{{ paginator.total_pages }}';
 </script>
