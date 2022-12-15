@@ -1,4 +1,47 @@
+# This is the data that powers _pages/people.md
+# Output will show people in the same order in which they are listed here
 - name: Zee Spencer
-  image: /images/zee.png
+  image: /images/people/zee.jpg
   link: https://www.twitter.com/zspencer
-  bio: Zee brings over a decade of experience working as a technical leader and executor for organizations ranging from Fortune 50 megacorps to two person startups. He balances his programming chops with an uncanny ability to focus a team on delivering the next most valuable thing.  Zee is a passionate teacher, dedicated to leveling up individuals and creating supportive, productive environments.
+  bio: >
+    Zee brings over a decade of experience working as a technical leader and
+    executor for organizations ranging from Fortune 50 megacorps to two person
+    startups. He balances his programming chops with an uncanny ability to focus
+    a team on delivering the next most valuable thing.  Zee is a passionate
+    teacher, dedicated to leveling up individuals and creating supportive,
+    productive environments.
+- name: Jennifer Tu
+  image: /images/people/jennifer.jpg
+  link: https://www.twitter.com/jtu
+  bio: >
+    On any given day, Jennifer may be found leading an engineering team through
+    a challenging project, coaxing a developer through learning new skills or
+    navigating new experiences, or facilitating workshops that help a team blend
+    their technical challenges with their organizational objectives.  After
+    receiving her degree in computer science from MIT, Jennifer's work spanned
+    infrastructure and operations, and good ol' feature delivery.  The
+    combination of her technical experience, interpersonal depth, near infinite
+    patience, and nose for nuance creates the ideal management and technical
+    coach (who is still happy to sit down and hammer out code).
+- name: Ana Ulin
+  image: /images/people/ana.jpg
+  link: https://anaulin.org
+  bio: >
+    Ana has extensive hands-on coding and management experience in companies of
+    all sizes and shapes &mdash; from Big Tech to seed-stage startups, through
+    non-profits and medium-sized enterprises. She can take a software product
+    from conception to launch, both as a principal engineer and as a leader of a
+    team.
+    <p>Her approach to software engineering is people-centric, pragmatic, and
+    sustainable. She delights in supporting others to improve their skills and
+    confidence.</p>
+- name: Betsy Haibel
+  image: /images/people/betsy.jpg
+  link: https://www.twitter.com/betsythemuffin
+  bio: >
+    Betsy is most at home wading into a codebase and uncovering and distilling
+    the intentions at play. She has a keen eye for separating the underlying
+    domain concepts from the details, and a talent for helping teams deliver
+    value without over-engineering.  Thanks to an earlier career in theater,
+    Betsy brings to the tech industry a deep background in creating usefulness
+    while delivering projects with hard deadlines.
