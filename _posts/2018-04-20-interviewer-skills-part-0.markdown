@@ -18,7 +18,7 @@ We're back from speaking at RailsConf, and what an incredible experience! The co
 We'd like to stay in touch! A few ways to do this:
 
 - We send out a [~monthly newsletter](/newsletter)
-- Email us at info@wecohere.com (or use the webform on our website)
+- Email us at hello@wecohere.com
 - We're on Twitter [(@wecohere)](https://twitter.com/wecohere).
 
 ---

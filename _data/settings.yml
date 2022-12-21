@@ -46,7 +46,7 @@ social:
 hero:
   enable: true
   hero__title: Better, together
-  hero__description: We use our technical and organizational expertise to help you and your team get where you want to go.
+  hero__description: Get your team where you want to go with Cohere's technical and organizational expertise.
   hero__image: "/images/people-teams-code.png"
 
 
