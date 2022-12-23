@@ -4,7 +4,7 @@ author: Zee Spencer
 excerpt: While the marketing will tell you the concepts behind GraphQL are simple, a full GraphQL implementation is quite complex.
 call_to_read: Here are a few tips to help you learn to use GraphQL and Rails effectively together.
 call_to_action: Adopting GraphQL and want a leg up? Zee is available to help you and your team overcome some of the hurdles in the GraphQL learning curve. Reach out to hello+zee-graphql@wecohere.com or fill in the form below!
-topics:
+tags:
   - Engineering
 layout: post
 categories: articles

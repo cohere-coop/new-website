@@ -3,9 +3,9 @@ title: "Interviewer Skills Part 3/3: Timing your interview"
 author: Jennifer Tu
 excerpt: The candidate has gone off on a wild tangent and you're not learning anything useful. What do you do? should you bring them back to the topic you want to cover? if so, how?
 call_to_read: This is Part 3 of a multi-part series covering some of the topics introduced in our RailsConf 2018 workshop, "Interviewer Skills".
-topics:
+tags:
   - Hiring and Interviewing
-  - Management and Leadershp
+  - Management and Leadership
 layout: post
 categories: articles
 drip_form_id: 897553995

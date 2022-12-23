@@ -3,7 +3,7 @@ title: "Real World Code Incident Report! How We Used the OODA Loop to Triage a A
 author: Zee Spencer
 excerpt: "<a href='https://www.notabli.com'>Notabli</a> reached out to us the day after Christmas because their API was falling over, and I was bored. Isn't that what everyone uses the Holidays for? Triaging production issues for fun?"
 call_to_read: Here's how we diagnosed and resolved the downtime by using the OODA loop!
-topics:
+tags:
   - Engineering
 layout: post
 categories: articles

@@ -5,7 +5,7 @@ excerpt: "We wrote down a few dozen dysfunctional pairing behaviors and sorted t
 call_to_read: "But then we learned that these really weren't smells. We'll share our discoveries of how to address these dysfunctions - and what they really are."
 call_to_action: "Wish you could learn more, but in a graphical format? <a href='https://letspair.guide/?utm_source=wecoherecom'>Check out our successfully Kickstarter-ed zine series</a>!<br>
 Wish you could learn more, but in a hands-on, immersive workshop setting? and want to read more on effective collaboration and engineering leadership? <a href='/newsletter.html'>Subscribe to our newsletter</a> for monthly insights."
-topics:
+tags:
   - Collaboration and Communication
 redirect_from:
   - /articles/symptom-or-smell.html

@@ -4,7 +4,7 @@ author: Betsy Haibel
 excerpt: Sometimes refactoring is fun. Sometimes refactoring feels therapeutic. Usually, those kinds of refactoring are the kinds we don't need.
 call_to_action: >
   On April 19th, Cohere will be presenting a free version of our workshop "Uncomfortable Refactoring" at Rails Conf. Over the next few weeks, we’ll be running a related blog series, chock-full of insights we needed to cut for time and other material inspired by the workshop development process. Follow us at <a href='https://twitter.com/wecohere'>@WeCohere</a> to read the next posts in the series. In the meantime, we'd love to hear from you: what parts of refactoring make you the most uncomfortable? What parts do you, against all odds, love?
-topics:
+tags:
   - Engineering
 layout: post
 categories: articles

@@ -4,7 +4,7 @@ author: Betsy Haibel
 excerpt: Async/await is a _really shiny_ hammer.
 call_to_read: But what happens when we run into the wrong kind of nail?
 call_to_action: Have you ever run into a Promises Problem that made you long for the good old days of callbacks? Or felt that async/await was more trouble than it was worth? Drop us a line! We'd love to hear about these, and your other programming misadventures.
-topics:
+tags:
   - Engineering
 layout: post
 categories: articles

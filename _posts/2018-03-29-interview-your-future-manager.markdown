@@ -3,7 +3,7 @@ title: How to interview your future manager
 author: Jennifer Tu
 excerpt: What you need out of your manager may be different than what your colleagues, your friends, or your peers need -- and that's ok!  What can you do to discover if the candidate interviewing to become your manager is the right person for the job?
 call_to_action:
-topics:
+tags:
   - Hiring and Interviewing
   - Management and Leadership
 layout: post

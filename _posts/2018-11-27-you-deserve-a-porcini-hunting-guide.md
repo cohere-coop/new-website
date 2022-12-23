@@ -3,7 +3,7 @@ title: "You deserve a porcini hunting guide"
 author: Jennifer Tu
 excerpt: "A friend recently learned how to forage for porcini mushrooms in the Sierras."
 call_to_read: "Learning to spot the mushrooms is a lot like learning how to refactor code in a legacy context."
-topics:
+tags:
   - Engineering
 layout: post
 categories: articles

@@ -4,7 +4,7 @@ author: Jennifer Tu
 excerpt: How do you know if someone will be the right addition to your team?  What happens if you both agree it's important to hire "no jerks" or people who are "smart and learn fast", but have different ideas about exactly that might mean?
 call_to_read: This is Part 1 of a multi-part series covering some of the topics introduced in our RailsConf 2018 workshop, "Interviewer Skills".
 call_to_action: Does this process sound hard? or difficult for you to both facilitate and participate in?  <a href="/workshops/#interviewer-skills-and-recruiting-process">We have a workshop for that (offered both on-site and remote).</a>  Get in touch to learn more about the workshop!
-topics:
+tags:
   - Hiring and Interviewing
   - Management and Leadership
 layout: post

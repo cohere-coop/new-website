@@ -3,7 +3,7 @@ title: Tell me about a time when...
 author: Jennifer Tu
 excerpt: When as an interviewer must you ask about specific experiences, and when can you ask what a candidate would do in a hypothetical situation?
 call_to_read: What can you ask yourself to know the right question to ask?
-topics:
+tags:
   - Hiring and Interviewing
   - Management and Leadership
 layout: post

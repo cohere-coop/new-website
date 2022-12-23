@@ -3,7 +3,7 @@ title: "Debugging a Race Condition in a Brittle Cypress Test Live on Stream on J
 author: Zee Spencer
 excerpt: "We asked what programming problems you would like watch be solved on stream in a real-world context. ~40% of you wanted to see us solve a race condition and another 30% wanted to see us solve a brittle JavaScript feature test."
 call_to_read: "We're doing both!"
-topics:
+tags:
   - Engineering
 layout: post
 categories: articles

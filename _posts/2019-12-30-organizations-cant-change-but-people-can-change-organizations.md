@@ -4,7 +4,7 @@ author: "Jennifer Tu"
 excerpt: "What can you do to create change in your organization?"
 call_to_read: "Find power in people."
 call_to_action: "Want help learning about identifying power in your organization? Let's talk about coaching."
-topics:
+tags:
   - Management and Leadership
 layout: post
 categories: articles

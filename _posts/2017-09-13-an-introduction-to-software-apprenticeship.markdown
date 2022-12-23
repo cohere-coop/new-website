@@ -8,7 +8,7 @@ call_to_action: Have some wisdom from your own apprenticeship experiences?
   Interested in setting up your own software apprenticeship
   program?<br>One of our favorite service offerings is <a href="/training#apprenticeship-program-design">helping companies like yours design apprenticeship programs</a>. Let's talk!
 
-topics:
+tags:
   - Management and Leadership
 layout: post
 categories: articles

@@ -4,7 +4,7 @@ author: Zee Spencer
 excerpt: Are you trying to build an apprenticeship program? Building cross-organizational buy-in can bolster your program's success.
 call_to_read: Learn how to align your apprenticeship program with your organization's desired outcomes.
 call_to_action: What were the results of your apprenticeship program? How were they different from your expected results?<br>One of our favorite service offerings is <a href="/training#apprenticeship-program-design">helping companies like yours design apprenticeship programs</a>. Let's talk!
-topics:
+tags:
   - Management and Leadership
 layout: post
 categories: articles
