@@ -3,7 +3,7 @@ title: Lessons Learned from our First Real World Code Live Stream
 author: Zee Spencer
 excerpt: "Earlier this month, Betsy and I tried to live stream a pairing session and <strong>failed miserably</strong>. But! We had fun, so we had a retro"
 call_to_read: and made a plan for how we can do better.
-topics:
+tags:
   - Engineering
   - Collaboration and Communication
 layout: post

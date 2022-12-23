@@ -6,7 +6,7 @@ call_to_read: " Learn how to integrate them in a manner that's appropriate for y
 drip_form_id: 443972707
 drip_form_headline: "Looking to get a head-start in refactoring some of your application code? <a href='/products/technical-coaching'>You can get private technical coaching for you or your team!</a>. We'll pair or mob program with you on the hairiest problem you've got, working through the tradeoffs and exploring the nuance while balancing delivery priorities."
 drip_form_button: "Schedule your free 30 minute consultation"
-topics:
+tags:
   - Engineering
 layout: post
 categories: articles

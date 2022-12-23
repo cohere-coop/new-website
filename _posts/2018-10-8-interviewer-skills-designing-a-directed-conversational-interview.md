@@ -3,7 +3,7 @@ title: "Designing a Directed Conversational Interview"
 author: Zee Spencer
 excerpt: "This article shows how to take interviewing techniques from the field of user research and cognition and meld them into a <em>directed conversation interview</em>, suitable for evaluating candidates against a skill ladder."
 call_to_read: "Learn how to design a directed conversational interview for the early stages of your hiring process."
-topics:
+tags:
   - Management and Leadership
   - Hiring and Interviewing
 layout: post

@@ -4,7 +4,7 @@ author: Jennifer Tu
 excerpt: Like many of you, we hold standups to sync up on what people are up to, surfacing and supporting through blockers, and getting in a little regular facetime.  We’re currently on our third variation of the year for how we do our standups.
 call_to_read: And today we're sharing our recipe for learning if your team process should change, and how to change it.
 ? call_to_action
-topics:
+tags:
   - Management and Leadership
 layout: post
 categories: articles

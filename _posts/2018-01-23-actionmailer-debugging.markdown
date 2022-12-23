@@ -4,7 +4,7 @@ author: Jennifer Tu
 excerpt: Are you making changes involving ActionMailer and hitting `(object doesn't support &#35;inspect)`?
 call_to_read: Remember what `ActionMailer::Base.mail` is expected to return.
 ? call_to_action
-topics:
+tags:
   - Engineering
 layout: post
 categories: articles

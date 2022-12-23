@@ -3,7 +3,7 @@ title: Cohere 2018 Year in Review - Reflections on Financial, Mental, Physical a
 author: Zee Spencer
 excerpt: In Q4 2017, Cohere formed as a three-person <a href="https://institute.coop/what-worker-cooperative?utm_campaign=cohere-2018-year-in-review">worker cooperative</a>. Our goals were to build a healthy environment where we could pursue our goals together.
 call_to_read: We learned a lot.
-topics:
+tags:
   - Collaboration and Communication
 layout: post
 categories: articles

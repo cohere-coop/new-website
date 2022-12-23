@@ -4,7 +4,7 @@ author: Jennifer Tu
 excerpt: Two developers, both alike in dignity. In a fair tech valley, where we lay our scene.<br>...you know what iambic pentameter is hella hard.
 call_to_read: How about we jump straight to talking about what to do if you have a lonely remote developer who's not succeeding on your in-office team.
 call_to_action: We're big believers in the power of remote collaboration, of teams being much more than the sum of the parts.  Do you have questions about how to support your remote team members?
-topics:
+tags:
   - Management and Leadership
   - Collaboration and Communication
 layout: post

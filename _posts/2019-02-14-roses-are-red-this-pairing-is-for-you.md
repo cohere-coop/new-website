@@ -4,10 +4,11 @@ author: "Jennifer Tu"
 excerpt: "How do I love pairing? Let me count the ways. Probably not to the very depth and breadth and height my soul may reach, but hey pairing is still pretty cool."
 call_to_read: "Seriously, why pairing?"
 call_to_action: "Wish you could pair with joy and speed? use pairing to bring out the best in yourself? Get in touch, we can help."
-topics:
+tags:
   - Collaboration and Communication
 layout: post
 categories: articles
+image: "/images/roses.jpg"
 ---
 
 It took me a long time to understand the joys of pair programming.
@@ -44,4 +45,4 @@ I love pairing because it helps me be my best imaginable self.  Sometimes thatâ€
 >
 > Which is why I like to pair program with you <3
 
-![Roses](/images/roses.jpg "Roses are... close enough to red, ship it"){:class="img-responsive"}
+![Roses]({{ "/images/roses.jpg" | absolute_url }} "Roses are... close enough to red, ship it")

@@ -5,7 +5,7 @@ excerpt: While some see &ldquo;Privilege&rdquo; as a four letter word, as a
   leader it's critical to understand how team members' backgrounds impact them.
 call_to_read: People love or hate pair programming, and for good reason! It's a tough skill!
 call_to_action: What are the problems you've seen Pair Programming help resolve? What are the things that make pairing uncomfortable for you? We'd love to hear your experiences with pairing.
-topics:
+tags:
   - Management and Leadership
   - Collaboration and Communication
 layout: post

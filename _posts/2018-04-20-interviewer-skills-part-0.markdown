@@ -3,7 +3,7 @@ title: "Return from RailsConf + Interviewer Skills Part 0/??: Intro"
 author: Jennifer Tu
 excerpt: You asked us for it in the halls of RailsConf and on Twitter. This article is the first in a multi-part series going over some of the topics introduced in our Interviewer Skills workshop.
 call_to_read: We have a list of WIP topics. What do you most hope to learn? Let us know.
-topics:
+tags:
   - Hiring and Interviewing
   - Management and Leadership
 layout: post

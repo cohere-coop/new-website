@@ -3,7 +3,7 @@ title: "Understanding Git: Configuration of Repositories and Remotes"
 author: Zee Spencer
 excerpt: "Recently, a dev.to community member asked for someone to explain what's going on in their <tt>.git/config</tt> when they have GitHub and Heroku remotes."
 call_to_read: "This article refines your mental model by providing a glimpse into the history of software configuration and version control, and using that to solve a real-world configuration problem."
-topics:
+tags:
   - Engineering
 layout: post
 categories: articles

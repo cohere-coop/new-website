@@ -8,7 +8,7 @@ call_to_action: How has someone leveraged their privilege to help you? What
   have you done to understand your own advantages and
   vulnerabilities? How have you adjusted your behavior to decrease
   vulnerability and increase opportunities for those around you?<br>Drop us a line and tell us more.
-topics:
+tags:
   - Management and Leadership
 layout: post
 categories: articles

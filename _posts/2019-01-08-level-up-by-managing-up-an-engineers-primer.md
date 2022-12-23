@@ -3,7 +3,7 @@ title: "Level up by managing up: an engineer's primer"
 author: Jennifer Tu
 excerpt: One tool you need to level up and grow your career is managing up.  Managing up is scary, but investing in this skill now will pay off as you build a collaborative environment with your manager.
 call_to_read: How do you get started managing up?
-topics:
+tags:
   - Collaboration and Communication
 layout: post
 categories: articles
@@ -14,15 +14,14 @@ drip_form_button: "Schedule a free coaching session to talk about it now"
 
 A few months back, I shared a quick lightning talk at [Fog City Ruby](https://www.meetup.com/fogcityruby/events/242074953/) on managing up. This article is a quick primer on one way to approach your manager about your goals, and assumes a sympathetic manager [who doesn't require advanced managing up](https://hbr.org/2018/04/how-to-work-for-a-boss-who-lacks-self-awareness).
 
-
-![Managing Up, Jennifer Tu](/images/ManagingUp.jpg "Managing Up, Jennifer Tu"){:class="img-responsive"}
+![Managing Up, Jennifer Tu]({{ "/images/ManagingUp.jpg" | absolute_url }} "Managing Up, Jennifer Tu")
 
 Sometimes we find ourselves liking our jobs, but wanting something a little different than what we have. Maybe you want to work on a different project.  Perhaps you want to change your work hours.  Or maybe you would like a raise.
 
 When we find ourselves in this situation, this is an opportunity to manage up.
 _Managing up_ is taking what _you_ want, and figuring out how to align it with what your _manager_ wants. If you can find the way to phrase what you want in a way that your manager wants it too, then they'll be more likely to support you in achieving your goal.
 
-![Managing Up: Why](/images/ManagingUp-Why.jpg "Managing Up: Why"){:class="img-responsive"}
+![Managing Up: Why]({{ "/images/ManagingUp-Why.jpg" | absolute_url }} "Managing Up: Why")
 
 Managing up is about asking for change. But you know what's scary?
 1. Change
@@ -38,7 +37,7 @@ When you speak up about what you want, your managing up can become this beautifu
 The act of talking about change -- just that act by itself -- makes it easier to talk about change again in the future, for both you to your manager, and for your manager to you.
 That means it will be that much easier to have the next discussion about a possible (bigger) change.
 
-![Managing Up: What](/images/ManagingUp-What.jpg "Managing Up: What"){:class="img-responsive"}
+![Managing Up: What]({{ "/images/ManagingUp-What.jpg" | absolute_url }} "Managing Up: What")
 
 ### What do you need to do to start managing up?
 
@@ -66,7 +65,7 @@ How about the intersection of your life and your job?
 [It’s ok if you don’t have an answer in mind](https://hbr.org/2017/10/how-to-tell-your-boss-that-youre-not-engaged-at-work).  If you have a problem you want to solve or an issue you want to raise, this is your chance to make it an open dialogue between you and your manager.
 This could be an opportunity for you to collaborate and solve something together.
 
-![Managing Up: How](/images/ManagingUp-How.jpg "Managing Up: How"){:class="img-responsive"}
+![Managing Up: How]({{ "/images/ManagingUp-How.jpg" | absolute_url }} "Managing Up: How")
 
 ### How do you open up that dialogue and start to manage up?
 
@@ -83,7 +82,7 @@ Take some time to think about this.  If you don’t know these answers, that’s
 
 When you understand what your manager’s goals are, go back to your own goal.  How does what you want fit into this picture?  When you understand that, you're ready.  _That_ understanding is what you want to share when you meet with your manager.
 
-![Managing Up: WhenWhere](/images/ManagingUp-WhenWhere.jpg "Managing Up: WhenWhere"){:class="img-responsive"}
+![Managing Up: WhenWhere]({{ "/images/ManagingUp-WhenWhere.jpg" | absolute_url }} "Managing Up: WhenWhere")
 
 At this point, you’re ready to talk with your manager.  There are a few things you can do to set the stage for success.
 

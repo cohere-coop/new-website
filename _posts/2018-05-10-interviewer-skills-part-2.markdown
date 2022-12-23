@@ -3,7 +3,7 @@ title: "Interviewer Skills Part 2/??: How to create interview questions"
 author: Jennifer Tu
 excerpt: You know what attributes will make someone the right addition to your team, and have specific enough descriptions that there can be no room for ambiguity.  How do you translate these into interview questions?
 call_to_read: This is Part 2 of a multi-part series covering some of the topics introduced in our RailsConf 2018 workshop, "Interviewer Skills".
-topics:
+tags:
   - Hiring and Interviewing
   - Management and Leadership
 layout: post

@@ -6,7 +6,7 @@ call_to_read: "Here's how to communicate the this in the form of a good job desc
 drip_form_id: 252082831
 drip_form_headline: "Working on improving how you hire, assess and promote as you grow your team? We offer executive and team coaching with an emphasis on building a practice of effective and equitable hiring techniques and professional development. We're happy to spend some time chatting with you about where you and your team are see if there's a way we can help."
 drip_form_button: "Schedule your free 30 minute consultation"
-topics:
+tags:
   - Management and Leadership
   - Collaboration and Communication
   - Hiring and Interviewing

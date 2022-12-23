@@ -3,7 +3,7 @@ title: Twenty minutes
 author: Jennifer Tu
 excerpt: Recently I was chatting with a friend who works as an engineer -- a real engineer, as in buildings and bridges and structures. I was curious what a technical, regulated industry's interview process might look like. What might I learn from her interview practice that could teach me about being a better interviewer in the software industry?
 call_to_read: Her entire interview process takes twenty minutes. For an industry where shoddy technical work could lead directly to human death.  What's the secret?
-topics:
+tags:
   - Hiring and Interviewing
   - Management and Leadership
 layout: post

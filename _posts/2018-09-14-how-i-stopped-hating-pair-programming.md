@@ -4,7 +4,7 @@ author: Betsy Haibel
 excerpt: Pairing works better for me nowadays because I realized that pairing is a programming skill. Just like for loops, code review, or domain modelling. And like any other skill, it can be taught and learned.
 call_to_read: People love or hate pair programming, and for good reason! It's a tough skill!
 call_to_action: What parts of pairing used to be awkward or frustrating for you? What parts still are? We'd love to hear your pairing stories, too.
-topics:
+tags:
   - Collaboration and Communication
   - Engineering
 layout: post

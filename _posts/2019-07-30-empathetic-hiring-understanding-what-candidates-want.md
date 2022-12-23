@@ -4,7 +4,7 @@ author: "Zee Spencer"
 excerpt: "The hiring market is tough right now. Compensation expectations, job mobility, recruiting costs, and opportunity costs for unfilled positions are all high."
 call_to_read: "Here's how to attract talent to your company without resorting to gimmickry."
 call_to_action: "Want specific, actionable coaching for you and your team as you work through a growth spurt? Reach out and we'll see if we can help."
-topics:
+tags:
   - Hiring and Interviewing
 layout: post
 categories: articles

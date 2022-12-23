@@ -3,7 +3,7 @@ title: "Passion isn't terrible"
 author: Jennifer Tu
 excerpt: "Many companies seek passion in their candidates. But this can be counterproductive to the company's goals if that passion isn't aligned with the company's interests."
 call_to_read: "What does counterproductive passion look like?"
-topics:
+tags:
   - Hiring and Interviewing
 layout: post
 categories: articles
