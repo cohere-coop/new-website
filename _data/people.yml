@@ -1,5 +1,17 @@
 # This is the data that powers _pages/people.md
 # Output will show people in the same order in which they are listed here
+- name: Ana Ulin
+  image: /images/people/ana.jpg
+  link: https://anaulin.org
+  bio: >
+    Ana has extensive hands-on coding and management experience in companies of
+    all sizes and shapes &mdash; from Big Tech to seed-stage startups, through
+    non-profits and medium-sized enterprises. She can take a software product
+    from conception to launch, both as a principal engineer and as a leader of a
+    team.
+    <p>Her approach to software engineering is people-centric, pragmatic, and
+    sustainable. She delights in supporting others to improve their skills and
+    confidence.</p>
 - name: Zee Spencer
   image: /images/people/zee.jpg
   link: https://www.twitter.com/zspencer
@@ -23,18 +35,6 @@
     combination of her technical experience, interpersonal depth, near infinite
     patience, and nose for nuance creates the ideal management and technical
     coach (who is still happy to sit down and hammer out code).
-- name: Ana Ulin
-  image: /images/people/ana.jpg
-  link: https://anaulin.org
-  bio: >
-    Ana has extensive hands-on coding and management experience in companies of
-    all sizes and shapes &mdash; from Big Tech to seed-stage startups, through
-    non-profits and medium-sized enterprises. She can take a software product
-    from conception to launch, both as a principal engineer and as a leader of a
-    team.
-    <p>Her approach to software engineering is people-centric, pragmatic, and
-    sustainable. She delights in supporting others to improve their skills and
-    confidence.</p>
 - name: Betsy Haibel
   image: /images/people/betsy.jpg
   link: https://www.twitter.com/betsythemuffin
