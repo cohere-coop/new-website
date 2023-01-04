@@ -26,8 +26,8 @@ author:
   #author__avatar: '/images/01.jpg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/wecohere"}
-- {icon: "ion-logo-github", link: "https://github.com/wecohere/"}
+# - {icon: "ion-logo-twitter", link: "https://twitter.com/wecohere"}
+# - {icon: "ion-logo-github", link: "https://github.com/wecohere/"}
 # - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # - {icon: "ion-logo-instagram", link: "https://instagram.com"}
 # - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
