@@ -83,6 +83,12 @@ testimonial__title: What our clients say
 testimonial__description:
 
 testimonial__items:
+
+  # we should change these to reflect the clients we want to land:
+  # - add something from CC about how we own their whole product and have improved the money faucet
+  # - OR add something from means about how we longterm move their product to match their NPO needs
+  # - AND IF we want more clients like CW (do we?) let's get something here from them
+  
   - name: "Eddie Kay"
     #image: "/images/client-1.jpg"
     designation: "Senior Engineering Manager, athenahealth"
