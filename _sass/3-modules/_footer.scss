@@ -43,7 +43,6 @@
 .footer__author {
   position: relative;
   z-index: 1;
-  display: flex;
   max-width: 780px;
   margin: 0 auto;
   text-align: center;
@@ -71,6 +70,11 @@
 
   @media (max-width: $desktop) {
     font-size: inherit;
+  }
+
+  a {
+    text-decoration: underline;
+    color: var(--light-gray);
   }
 }
 
