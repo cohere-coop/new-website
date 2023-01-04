@@ -22,7 +22,7 @@ menu__settings:
 # Shows up in the site footer
 author:
   author__name: Cohere
-  author__bio: A democratically governed worker-cooperative. Rooted in Oakland, CA, Ohlone land.
+  author__bio: A democratically governed worker-cooperative. Rooted in Oakland, CA, Lisjan Ohlone land.
   #author__avatar: '/images/01.jpg'
 
 social:
@@ -88,7 +88,7 @@ testimonial__items:
   # - add something from CC about how we own their whole product and have improved the money faucet
   # - OR add something from means about how we longterm move their product to match their NPO needs
   # - AND IF we want more clients like CW (do we?) let's get something here from them
-  
+
   - name: "Eddie Kay"
     #image: "/images/client-1.jpg"
     designation: "Senior Engineering Manager, athenahealth"
