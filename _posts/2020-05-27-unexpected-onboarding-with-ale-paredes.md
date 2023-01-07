@@ -2,22 +2,23 @@
 season: 4
 episode: 26
 title: Unexpected Onboarding with Ale Paredes
-author: Jennifer Tu
 link: https://anchor.fm/cohere/episodes/Unexpected-Onboarding-with-Ale-Paredes-eebb3n
-embed: <iframe src="https://anchor.fm/cohere/embed/episodes/Unexpected-Onboarding-with-Ale-Paredes-eebb3n" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+embed: <iframe src="https://anchor.fm/cohere/embed/episodes/Unexpected-Onboarding-with-Ale-Paredes-eebb3n"
+  height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 guest: Ale Paredes
-image: /images/podcast/ale_paredes.jpg
 transcript: 26-ale_paredes
+author: Jennifer Tu
 tags:
-  - Podcast
+- Podcast
+image: "/images/podcast/ale_paredes.jpg"
 ---
 
 In Episode 26, Ale Paredes ([@ale7714 on Twitter](twitter.com/ale7714) / [ale7714 on LinkedIn](https://www.linkedin.com/in/ale7714/) / [Latinas In Tech NYC](https://www.latinasintech.org/chapter/new-york-city/)) shares her team's experience as they find themselves not just unexpectedly remote during a pandemic, but also unexpectedly onboarding while unexpectedly remote during a pandemic.
 
 We talk about the role of documentation, 1-1s, and social touches in onboarding and team management.
 
-<iframe src="https://anchor.fm/cohere/embed/episodes/Unexpected-Onboarding-with-Ale-Paredes-eebb3n" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
+<iframe src="https://anchor.fm/cohere/embed/episodes/Unexpected-Onboarding-with-Ale-Paredes-eebb3n" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Transcript
 
