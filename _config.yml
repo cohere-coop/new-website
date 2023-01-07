@@ -57,3 +57,4 @@ sass:
 
 exclude:
   - README.md
+  - bin/
